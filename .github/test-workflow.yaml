@@ -1,7 +1,7 @@
 name: Simple Test Workflows
 on:
   pull_request:
-    types: [opened, synchronize]
+    types: [ opened, synchronize ]
 
 jobs:
   set-up:
